@@ -1,0 +1,8 @@
+/home/abush/Projects/BinaryConverterUbuntu/BinaryConverterUbuntu/bin/Debug/BinaryConverterUbuntu.exe
+/home/abush/Projects/BinaryConverterUbuntu/BinaryConverterUbuntu/bin/Debug/BinaryConverterUbuntu.pdb
+/home/abush/Projects/BinaryConverterUbuntu/BinaryConverterUbuntu/bin/Debug/BinaryConverterLib.dll
+/home/abush/Projects/BinaryConverterUbuntu/BinaryConverterUbuntu/bin/Debug/BinaryConverterService.dll
+/home/abush/Projects/BinaryConverterUbuntu/BinaryConverterUbuntu/bin/Debug/BinaryConverterService.dll.config
+/home/abush/Projects/BinaryConverterUbuntu/BinaryConverterUbuntu/obj/x86/Debug/BinaryConverterUbuntu.csproj.CoreCompileInputs.cache
+/home/abush/Projects/BinaryConverterUbuntu/BinaryConverterUbuntu/obj/x86/Debug/BinaryConverterUbuntu.exe
+/home/abush/Projects/BinaryConverterUbuntu/BinaryConverterUbuntu/obj/x86/Debug/BinaryConverterUbuntu.pdb

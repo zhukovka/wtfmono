@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{FE86574B-B04B-4C73-A5DA-3427F418B7D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BinaryConverterClient/BinaryConverterRequest.cs">
+    <Files>
+      <File FileName="BinaryConverterUbuntu/Program.cs" Line="12" Column="57" />
+      <File FileName="BinaryConverterClient/Program.cs" Line="21" Column="9" />
+      <File FileName="BinaryConverterClient/BinaryConverterRequest.cs" Line="16" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BinaryConverterUbuntu" expanded="True">
+            <Node name="BinaryConverterClient" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="BinaryConverterRequest.cs" selected="True" />
+            </Node>
+            <Node name="BinaryConverterUbuntu" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BinaryConverterUbuntu PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
